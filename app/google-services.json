@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "923028610462",
+    "project_id": "ilens-8b551",
+    "storage_bucket": "ilens-8b551.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923028610462:android:f88408da2a8c5450e2ca8f",
+        "android_client_info": {
+          "package_name": "com.mini_project.thesilentbell.ilens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923028610462-fu85eugp65e6m41d1t3upik5h0athtra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGi3wFvOGyVAXeWK9M2jJmqsP8m8UwJaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923028610462-fu85eugp65e6m41d1t3upik5h0athtra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
